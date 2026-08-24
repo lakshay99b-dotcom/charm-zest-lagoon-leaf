@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Studania",
+      "hasCanvas": false,
+      "bodyTextLen": 355,
+      "bodyTextHash": "3c32ea87a5339ee3d1c911f3e9749fd3ae410b716c6e8b68e960c586a40faa1f",
+      "bodyTextPrefix": "Studania Ready STUDY ANY CONCEPT Learn it. Revise it. Practise u",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Studania",
+      "hasCanvas": false,
+      "bodyTextLen": 355,
+      "bodyTextHash": "3c32ea87a5339ee3d1c911f3e9749fd3ae410b716c6e8b68e960c586a40faa1f",
+      "bodyTextPrefix": "Studania Ready STUDY ANY CONCEPT Learn it. Revise it. Practise u",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
